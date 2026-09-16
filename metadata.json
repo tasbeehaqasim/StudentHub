@@ -1,8 +1,0 @@
-{
-  "name": "Student Hub — University Cafeteria Pre-Order \u0026 Management System",
-  "description": "Smart university cafeteria pre-order, kitchen queue management, and administration system with dedicated portals for students, staff, and admin.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
